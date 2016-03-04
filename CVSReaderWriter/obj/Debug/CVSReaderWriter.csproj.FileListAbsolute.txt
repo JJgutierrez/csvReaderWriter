@@ -1,0 +1,8 @@
+C:\Users\Juan\Documents\class\OxigenClass\CVSReaderWriter\CVSReaderWriter\bin\Debug\CVSReaderWriter.exe.config
+C:\Users\Juan\Documents\class\OxigenClass\CVSReaderWriter\CVSReaderWriter\bin\Debug\CVSReaderWriter.exe
+C:\Users\Juan\Documents\class\OxigenClass\CVSReaderWriter\CVSReaderWriter\bin\Debug\CVSReaderWriter.pdb
+C:\Users\Juan\Documents\class\OxigenClass\CVSReaderWriter\CVSReaderWriter\obj\Debug\CVSReaderWriter.exe
+C:\Users\Juan\Documents\class\OxigenClass\CVSReaderWriter\CVSReaderWriter\obj\Debug\CVSReaderWriter.pdb
+C:\Users\Juan\Documents\class\OxigenClass\CVSReaderWriter\CVSReaderWriter\bin\Debug\CsvHelper.dll
+C:\Users\Juan\Documents\class\OxigenClass\CVSReaderWriter\CVSReaderWriter\bin\Debug\CsvHelper.pdb
+C:\Users\Juan\Documents\class\OxigenClass\CVSReaderWriter\CVSReaderWriter\bin\Debug\CsvHelper.xml
